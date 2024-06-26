@@ -6,6 +6,5 @@ public class P20_do_while_loop {
             System.out.println("Hello World");
             counter ++;
         }while (counter <= 10);
-    }
-    
+    }   
 }
