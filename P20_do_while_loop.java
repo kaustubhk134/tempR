@@ -3,7 +3,7 @@ public class P20_do_while_loop {
         
         int counter = 1;
         do{
-            System.out.println("Hello ");
+            System.out.println("Hello World");
             counter ++;
         }while (counter <= 10);
     }
