@@ -8,5 +8,4 @@ public class P10_ternary_oprator {
         String numType = ((num % 2 == 0) ? "EVEN" : "ODD");
         System.out.println(numType);
     }
-    
 }
